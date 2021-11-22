@@ -6,12 +6,12 @@
 
 body {
   background-color: #FFF315;
-  background-image: url("../img/bg-home.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
 }
 
 #home {
+  background-image: url("../img/bg-home.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   min-height: 100vh ;
 }
 
