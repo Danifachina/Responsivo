@@ -8,11 +8,19 @@ body {
   background-color: #FFF315;
 }
 
+.logo {
+  color: #FFC107;
+}
+
+.navbar {
+  background-color: #0183D9 !important;
+}
+
 #home {
   background-image: url("../img/bg-home.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 100vh ;
+  min-height: 100vh;
 }
 
 .title-bar {
