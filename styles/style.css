@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFF315;
+  background-image: url("../img/bg-home.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#home {
+  min-height: 100vh ;
+}
+
+.title-bar {
+  background-color: #3F00B3;
+  color: #FFF;
+}
+
+.footer-info {
+  text-decoration: none;
+  color: #FFF;
+}
