@@ -5,7 +5,7 @@
 }
 
 .logo {
-  color:#1abc9c;
+  color: #1abc9c;
 }
 
 .navbar {
@@ -19,12 +19,12 @@
   min-height: 100vh;
 }
 
-#hotel{
+#hotel {
   background-color: #CFE7D7;
 }
 
 .title-bar {
-  background-color:#1abc9c;
+  background-color: #1abc9c;
   color: #CFE7D7;
 }
 
@@ -32,6 +32,7 @@
   text-decoration: none;
   color: #FFF;
 }
-#res{
-background-color: #CFE7D7;
+
+#res {
+  background-color: #CFE7D7;
 }
