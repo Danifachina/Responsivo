@@ -4,16 +4,12 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: #FFD314;
-}
-
 .logo {
-  color: #FFC107;
+  color:#1abc9c;
 }
 
 .navbar {
-  background-color: #0183D9 !important;
+  background-color: #34495e !important;
 }
 
 #home {
@@ -23,12 +19,19 @@ body {
   min-height: 100vh;
 }
 
+#hotel{
+  background-color: #CFE7D7;
+}
+
 .title-bar {
-  background-color: #3F00B3;
-  color: #FFF;
+  background-color:#1abc9c;
+  color: #CFE7D7;
 }
 
 .footer-info {
   text-decoration: none;
   color: #FFF;
+}
+#res{
+background-color: #CFE7D7;
 }
